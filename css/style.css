@@ -1,0 +1,26 @@
+img {
+    height: auto;
+}
+
+.navbarFooter-background-color {
+    background-color: #0b3ee4de;
+}
+
+.cntr-bg-color {
+    background-color: rgba(39, 57, 161, 0.05);
+}
+
+.img-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.delete-button {
+    display: block;
+}
+
+.align {
+    text-align: center;
+}
